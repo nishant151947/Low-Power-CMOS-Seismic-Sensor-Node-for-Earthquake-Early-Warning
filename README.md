@@ -99,6 +99,14 @@ STA / LTA > Threshold
 
 When this condition is satisfied, the system identifies a potential seismic event.
 
+## Signal Processing Pipeline Visualization
+
+The following figure shows the complete seismic signal processing pipeline, including raw signal generation, amplification, STA/LTA ratio computation, and final detection output.
+
+<p align="center">
+  <img src="seismic_pipeline.png" width="800">
+</p>
+
 # Technologies Used
 
 * Python
