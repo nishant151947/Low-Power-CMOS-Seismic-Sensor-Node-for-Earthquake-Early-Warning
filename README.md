@@ -104,7 +104,7 @@ When this condition is satisfied, the system identifies a potential seismic even
 The following figure shows the complete seismic signal processing pipeline, including raw signal generation, amplification, STA/LTA ratio computation, and final detection output.
 
 <p align="center">
-  <img src="seismic_pipeline.png" width="800">
+  <img src="resultant_graphs.png" width="800">
 </p>
 
 # Technologies Used
